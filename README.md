@@ -1,7 +1,7 @@
 # book-sells-datawarehouse
 Pentaho datawarehouse and Birt reporting on thousands of book sells.
 
-Schhol project (march - april 2018)
+School project (march - april 2018)
 
 1. First have a look at [report](https://github.com/clementbrizard/book-sells-datawarehouse/blob/master/datamart_modelisation_report.pdf) on exploring data and datamart conception.
 2. Then you can see [how we built](https://github.com/clementbrizard/book-sells-datawarehouse/blob/master/datawarehouse_report.pdf) the datawarehouse using Pentaho software.
